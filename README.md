@@ -40,5 +40,5 @@ I specialize in building resilient cloud infrastructure and high-performance ful
 
 ### 05 / CONTACT
 * **Email**: [ywang221@uottawa.ca](mailto:ywang221@uottawa.ca)
-* **LinkedIn**: [linkedin.com/in/yihewang](https://linkedin.com/in/yihe-wang)
+* **LinkedIn**: [linkedin.com/in/wang-yihe](https://linkedin.com/in/wang-yihe)
 * **Location**: Ottawa, ON
